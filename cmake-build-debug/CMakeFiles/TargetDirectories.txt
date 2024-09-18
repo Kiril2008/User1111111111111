@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/home work 111111/cmake-build-debug/CMakeFiles/home_work_111111.dir
+C:/Users/User/Desktop/home work 111111/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/home work 111111/cmake-build-debug/CMakeFiles/rebuild_cache.dir
